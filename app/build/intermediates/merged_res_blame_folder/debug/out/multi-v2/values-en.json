@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myapplication3.app-mergeDebugResources-27:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mizox\\Downloads\\ToDoApp2-master\\ToDoApp2\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "12,3,9,8,6,11,10,4,5,7,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "591,112,433,389,283,527,483,172,228,339,55",
+                        "endColumns": "45,59,49,43,55,63,43,55,54,49,56",
+                        "endOffsets": "632,167,478,428,334,586,522,223,278,384,107"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,161,211,255,311,375,419,475,530,580",
+                        "endColumns": "45,59,49,43,55,63,43,55,54,49,56",
+                        "endOffsets": "96,156,206,250,306,370,414,470,525,575,632"
+                    }
+                }
+            ]
+        }
+    ]
+}

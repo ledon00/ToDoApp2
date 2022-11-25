@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".TaskListActivity">
+
+    <TextView
+        style="@style/TextFieldsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name_label"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/task_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name_hint"
+        android:textColor="#2D3A1D"/>
+
+    <TextView
+        style="@style/TextFieldsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/details_label"
+        android:textSize="20sp"/>
+
+<EditText
+    android:id="@+id/task_date"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:autofillHints=""
+    android:clickable="false"
+    android:cursorVisible="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:inputType="date"
+    android:textColor="#2D3A1D"/>
+
+<Spinner
+    android:id="@+id/task_category"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+    <CheckBox
+        android:id="@+id/task_done"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:buttonTint="#FF5722"
+        android:text="@string/done_label"
+        android:textAlignment="viewStart"
+        android:textColor="#0C2D42" />
+
+    <ImageView
+        android:id="@+id/task_undone_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF5722"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+</LinearLayout>

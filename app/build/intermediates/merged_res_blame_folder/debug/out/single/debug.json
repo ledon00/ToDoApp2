@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/menu_fragment_task_menu.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/menu/fragment_task_menu.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-xxhdpi_ic_house.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-xxhdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/layout_fragment_task.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/layout/fragment_task.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-anydpi_ic_house.xml.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-anydpi/ic_house.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-mdpi_ic_house.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-mdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-xhdpi_ic_house.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-xhdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-xxhdpi_ic_university.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-xxhdpi/ic_university.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/layout_list_item_task.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/layout/list_item_task.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/layout_fragment_task_list.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/layout/fragment_task_list.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-mdpi_ic_university.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-mdpi/ic_university.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication3.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-hdpi_ic_university.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-hdpi/ic_university.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-anydpi_ic_university.xml.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-anydpi/ic_university.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-xhdpi_ic_university.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-xhdpi/ic_university.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/drawable-hdpi_ic_house.png.flat",
+        "source": "com.example.myapplication3.app-debug-30:/drawable-hdpi/ic_house.png"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication3.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication3.app-main-31:/layout/activity_main.xml"
+    }
+]
